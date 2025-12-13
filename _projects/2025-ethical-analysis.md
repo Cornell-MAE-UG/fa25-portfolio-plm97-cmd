@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Ethical Analysis
+title: MAE 4300 Ethical Analysis
 description: Ethical analysis of Boeing 737 MAX incident
 technologies: [N/A]
 image: /assets/images/function-graph.png
