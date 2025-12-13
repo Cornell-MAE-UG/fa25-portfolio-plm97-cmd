@@ -5,10 +5,10 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/CV_Sept_2025.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [plm97@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [plm97@cornell.edu](mailto:plm97@cornell.edu) | | | **Phone:** +123 456 7890
 
 ---
 
@@ -20,10 +20,10 @@ Engineering student with a strong foundation in simulation and hands-on design. 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: December, 2025
+  GPA: 4.08 | Graduation: December, 2025
 
   *Master of Engineering in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Expected Graduation: December, 2026
+  Expected Graduation: December, 2026
 
 - **Menlo School**  
   *High School Diploma*  
@@ -32,19 +32,24 @@ Engineering student with a strong foundation in simulation and hands-on design. 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS Fluent and Mechanical 
+- **Software:** Autodesk Inventor, Fusion 360, SolidWorks, ANSYS Fluent and Mechanical 
 - **Programming:**  MATLAB, Python
 - **Tools:** Manual Lathe and Mill, 3D Printing, Laser Cutting, Oscilloscope
 
 ---
 
 #### Projects
-- **[Project Title]**:  
+- **Planetary Gearbox Design for FSAE Racecar**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
 
-- **[Project Title]**:  
+- **Planetary Gearbox Test/Validation Campaign for FSAE Racecar**:  
+  *[Short Description]*  
+  - Key Achievement 1  
+  - Key Achievement 2  
+
+- **High Voltage Enclosure Design for FSAE Racecar**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
