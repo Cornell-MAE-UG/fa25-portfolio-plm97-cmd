@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Parker McLaughlin - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,30 +8,33 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [plm97@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Engineering student with a strong foundation in simulation and hands-on design. Passionate about sustainability and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.8/4.0 | Graduation: December, 2025
 
-- **[High School Name]**  
+  *Master of Engineering in Mechanical and Aerospace Engineering*  
+  GPA: 3.8/4.0 | Expected Graduation: December, 2026
+
+- **Menlo School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: May, 2022
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS Fluent and Mechanical 
+- **Programming:**  MATLAB, Python
+- **Tools:** Manual Lathe and Mill, 3D Printing, Laser Cutting, Oscilloscope
 
 ---
 
@@ -63,8 +66,9 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Planetary gearbox designer for Cornell FSAE Racing
+- Rock climbing instructor for Cornell Outdoor Education
+- Player on Cornell Wild Roses Ultimate Frisbee
 
 ---
 
