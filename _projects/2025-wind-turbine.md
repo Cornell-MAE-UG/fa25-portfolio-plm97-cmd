@@ -26,9 +26,9 @@ The blade was tested in the Big Blue wind tunnel to assess its performance acros
 
 **Results**
 
-<img src="{{ site.baseurl }}/assets/images/power-curve-vs-model.jpg" alt="Experiment and Model Comparison" width=400 style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
-
 After processing the power curve data, several discrepancies between our model and experimental results became apparent. While the general shape of the power curves followed expectations, we observed a significant dip in power between 2200-2500 RPM, which correlated with the blade's resonant frequency. This indicated that vibration losses were impacting efficiency, something we hadn't accounted for in the design. 
+
+<img src="{{ site.baseurl }}/assets/images/power-curve-vs-model.jpg" alt="Experiment and Model Comparison" width=400 style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
 
 Additionally, our experimental data showed lower power output than predicted, likely due to a combination of factors including friction issues during testing, a mirroring error in the blade's CAD design, and inaccurate assumptions in our model. We assumed a fixed Reynolds number, rotation rate, and no losses associated with constricted flow, tip effects, or blade wake; these do not hold true for our wind tunnel testing. When comparing cumulative power predictions, the model significantly overestimated the expected output, predicting 3.67 W compared to the experimental value of 0.213 W. This gap highlights the importance of refining our modeling assumptions, running structural simulations to avoid resonance issues, and improving the blade’s aerodynamic efficiency in future iterations.
 
